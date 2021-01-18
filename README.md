@@ -33,3 +33,4 @@ Copyright (c) - Nuxt Community
 
 [codecov-src]: https://img.shields.io/codecov/c/github/nuxt-community/pwa-module.svg?style=flat-square
 [codecov-href]: https://codecov.io/gh/nuxt-community/pwa-module
+#1
